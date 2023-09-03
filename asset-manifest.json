@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BlenderModelTest/static/css/main.073c9b0a.css",
+    "main.js": "/BlenderModelTest/static/js/main.0b54a957.js",
+    "static/js/787.53b23730.chunk.js": "/BlenderModelTest/static/js/787.53b23730.chunk.js",
+    "index.html": "/BlenderModelTest/index.html",
+    "main.073c9b0a.css.map": "/BlenderModelTest/static/css/main.073c9b0a.css.map",
+    "main.0b54a957.js.map": "/BlenderModelTest/static/js/main.0b54a957.js.map",
+    "787.53b23730.chunk.js.map": "/BlenderModelTest/static/js/787.53b23730.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0b54a957.js"
+  ]
+}
