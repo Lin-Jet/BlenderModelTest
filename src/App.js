@@ -4,9 +4,12 @@ import Experience from "./components/Experience";
 
 function App() {
   return (
+    <div>
+      <h1>Hello</h1>
     <Canvas>
       <Experience />
     </Canvas>
+    </div>
   );
 }
 
